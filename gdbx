@@ -1,0 +1,3 @@
+file bin/kernel.elf
+break _start
+target remote localhost:5416
